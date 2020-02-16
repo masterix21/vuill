@@ -1,2 +1,2 @@
 # vuill
-Vue.js components
+VueJS components build across Tailwind.css, with Inertia.js in mind.
